@@ -8,16 +8,14 @@ Time spent: **1.5** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is complete:
-
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] UI animations
+* [x] UI animations
 
 The following **additional** features are implemented:
 
-* [ ] User friendly design, so users can effectively navigate through app
+* [x] User friendly design, so users can effectively navigate through app
 
 ## Video Walkthrough 
 
